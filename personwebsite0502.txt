@@ -1,0 +1,22 @@
+    Create a modern, clean, Japanese-style personwebsite design inspired by the attached image. 
+
+Requirements:
+
+Left side: Visual content area with bold red and white colors, large text, and a smiling character image.
+
+Right side: A simple vertical sidebar menu with clean font, listing multiple services (e.g., home, about, services,portfolio, blog, contact,sedul).
+
+The sidebar menu must have clean spacing between sections, and simple dividers separating categories.
+
+Add a bottom navigation with small text links such as News, FAQ, and Support Desk.
+
+Color palette: Mainly white and red, matching a bright, energetic Japanese company style.
+
+Fonts: Bold for main visuals, simple for sidebar and footer.
+
+Fully responsive for mobile and desktop.
+
+Clean, user-friendly layout, no clutter.
+
+Technologies: HTML, CSS, JavaScript, Bootstrap (no heavy frameworks).
+
